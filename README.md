@@ -2,14 +2,14 @@ Hello World !
 
 # Programing
   - [x] I'm junior
-  - [] Python
-  - [] Django / FastApp
-  - [] HTML / CSS
-  - [] JavaScript
-  - [] React
+  - Python
+  - Django / FastApp
+  - HTML / CSS
+  - JavaScript
+  - React
 
 # Electrical
-  - I have 8 years of experience in electricity
+  - [x] I have 8 years of experience in electricity
   - BMS (Building Management System)
   - KNX
   - Weak Currents ( include => camera, internet, REKI, and more...)
