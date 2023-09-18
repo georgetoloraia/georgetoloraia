@@ -9,12 +9,12 @@ Hello World !
   - [] React
 
 # Electrical
- - I have 8 years of experience in electricity
- -- BMS (Building Management System)
- -- KNX
- -- Weak Currents ( include => camera, internet, REKI, and more...)
- -- Electrical box ( include => generator, ATS, avtomatic and more... )
- -- Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
+  - I have 8 years of experience in electricity
+  - BMS (Building Management System)
+  - KNX
+  - Weak Currents ( include => camera, internet, REKI, and more...)
+  - Electrical box ( include => generator, ATS, avtomatic and more... )
+  - Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
 
 
 <!---
