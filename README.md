@@ -1,5 +1,3 @@
-Hello World !
-
 # Programing
   - [x] I'm junior
   - Python
@@ -16,7 +14,7 @@ Hello World !
   - Electrical box ( include => generator, ATS, avtomatic and more... )
   - Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
 
-
+## Hello World
 - 👋 Hi, I’m @georgetoloraia
 - 👀 I’m interested in everything in Electronics and programming
 - 🌱 I’m currently learning ChatGpt, hashing, algorithms, teamwork, english, javasscript and react
