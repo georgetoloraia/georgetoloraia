@@ -1,5 +1,13 @@
 Hello World !
 
+# Programing                                                 # Electrical
+  - [x] I'm junior                  |                          - [x] I have 8 years of experience in electricity
+  - [] Python                       |                          - [] BMS (Building Management System)
+  - [] Django / FastApp             |                          - [] KNX
+  - [] HTML / CSS                   |                          - [] Weak Currents ( include => camera, internet, REKI, and more...)
+  - [] JavaScript                   |                          - [] Electrical box ( include => generator, ATS, avtomatic and more... )
+  - [] React                        |                          - [] Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
+
 <!---
 - 👋 Hi, I’m @georgetoloraia
 - 👀 I’m interested in ...
