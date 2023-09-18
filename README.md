@@ -1,12 +1,21 @@
 Hello World !
 
-# Programing                                                 # Electrical
-  - [x] I'm junior                  |                          - [x] I have 8 years of experience in electricity
-  - [] Python                       |                          - [] BMS (Building Management System)
-  - [] Django / FastApp             |                          - [] KNX
-  - [] HTML / CSS                   |                          - [] Weak Currents ( include => camera, internet, REKI, and more...)
-  - [] JavaScript                   |                          - [] Electrical box ( include => generator, ATS, avtomatic and more... )
-  - [] React                        |                          - [] Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
+# Programing
+  - [x] I'm junior
+  - [] Python
+  - [] Django / FastApp
+  - [] HTML / CSS
+  - [] JavaScript
+  - [] React
+
+# Electrical
+ - I have 8 years of experience in electricity
+ -- BMS (Building Management System)
+ -- KNX
+ -- Weak Currents ( include => camera, internet, REKI, and more...)
+ -- Electrical box ( include => generator, ATS, avtomatic and more... )
+ -- Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
+
 
 <!---
 - 👋 Hi, I’m @georgetoloraia
