@@ -17,10 +17,10 @@ Hello World !
   - Now I'm Working In Two Companies ("ATU" and "ELSAIDI")
 
 
-<!---
 - 👋 Hi, I’m @georgetoloraia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in everything in Electronics and programming
+- 🌱 I’m currently learning ChatGpt, hashing, algorithms, teamwork, english, javasscript and react
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
