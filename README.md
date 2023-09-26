@@ -2,6 +2,7 @@
   - [x] I'm junior
   - Python
   - Django / FastApp
+  - SQL
   - HTML / CSS
   - JavaScript
   - React
