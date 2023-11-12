@@ -1,5 +1,4 @@
 # Programing
-  - [x] I'm junior
   - Python
   - Django / FastApp
   - SQL
