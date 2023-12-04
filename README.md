@@ -1,6 +1,8 @@
-# About Me
+# Hello World
 
-Hello! I'm George Toloraia, and I have a strong background in both programming and electrical engineering. Currently, I'm working in two companies, "ATU" and "ELSAIDI," where I specialize in various aspects of electrical systems.
+- 👋 Hi, I’m [@georgetoloraia](https://github.com/georgetoloraia)
+- 👀 I’m interested in everything related to Electronics and Programming.
+- 🌱 I’m currently learning and improving my skills in various domains, including ChatGPT, hashing, algorithms, teamwork, English, JavaScript, and React.
 
 ## Programming Skills
 
@@ -31,12 +33,6 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 - English language proficiency
 - JavaScript
 - React
-
-## Hello World
-
-- 👋 Hi, I’m [@georgetoloraia](https://github.com/georgetoloraia)
-- 👀 I’m interested in everything related to Electronics and Programming.
-- 🌱 I’m currently learning and improving my skills in various domains, including ChatGPT, hashing, algorithms, teamwork, English, JavaScript, and React.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
