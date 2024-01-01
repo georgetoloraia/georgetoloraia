@@ -1,8 +1,8 @@
 # Hello World
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="180"> 
 - 👋 Hi, I’m [@georgetoloraia](https://github.com/georgetoloraia)
 - 👀 I’m interested in everything related to Electronics and Programming.
