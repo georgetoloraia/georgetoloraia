@@ -1,7 +1,7 @@
 # Hello World
 ## 📊 Matrix Background
 
-You can experience the Matrix-style background by clicking [here]([URL_TO_YOUR_GIST](https://gist.github.com/georgetoloraia/84dad16ec2b0ebf17a91ffc74dce2c82)).
+You can experience the Matrix-style background by clicking [here](https://gist.github.com/georgetoloraia/84dad16ec2b0ebf17a91ffc74dce2c82).
 
 <!-- Replace URL_TO_YOUR_GIST with the actual Gist URL -->
 
