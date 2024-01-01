@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matrix Background</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background-color: black;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .matrix {
+      font-family: 'Courier New', monospace;
+      color: #00ff00; /* Matrix green color */
+      font-size: 16px;
+      white-space: nowrap;
+      overflow: hidden;
+      position: relative;
+      animation: animateMatrix 5s linear infinite;
+    }
+
+    @keyframes animateMatrix {
+      from {
+        transform: translateY(100%);
+      }
+      to {
+        transform: translateY(-100%);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="matrix">
+    <!-- Add your content here if needed -->
+    0101010101010101010101010101010101010101010101010101010101010101
+  </div>
+</body>
+</html>
