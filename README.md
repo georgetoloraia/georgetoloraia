@@ -8,6 +8,13 @@
 - 👀 I’m interested in everything related to Electronics and Programming.
 - 🌱 I’m currently learning and improving my skills in various domains, including ChatGPT, hashing, algorithms, teamwork, English, JavaScript, and React.
 
+## 📊 Matrix Background
+
+You can experience the Matrix-style background by clicking [here](index.html).
+
+<!-- Replace URL_TO_YOUR_GIST with the actual Gist URL -->
+
+
 ## Programming Skills
 
 - Python
