@@ -40,3 +40,8 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 --->
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration opportunities!
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
+
