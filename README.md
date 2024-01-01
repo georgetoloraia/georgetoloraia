@@ -50,4 +50,5 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 *.html linguist-language=HTML
 *.asm linguist-language=Assembly
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
 
