@@ -28,6 +28,8 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 
 - ChatGPT
 - Hashing
+- Assembly
+- Hardware/From Logic Gates to personal PC
 - Algorithms
 - Teamwork
 - English language proficiency
