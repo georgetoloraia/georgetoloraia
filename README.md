@@ -45,3 +45,9 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
 
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.html linguist-language=HTML
+*.asm linguist-language=Assembly
+
+
