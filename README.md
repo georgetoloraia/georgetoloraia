@@ -1,7 +1,7 @@
 # Hello World
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
-<div align="center">
+<div align="center" style="color:green">
   <h1 style="color:green">Hi 👋, I'm George Toloraia</h1>
   <h3 style="color:green">A Full Stack developer from Georgia</h3>
     <div align="center">
