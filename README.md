@@ -1,12 +1,13 @@
 # Hello World
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
 <div>
   <h1 align="center">Hi 👋, I'm George Toloraia</h1>
   <h3 align="center">A Full Stack developer from Georgia</h3>
-  <div align="right">
-    <p>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="180"> 
-    </p>
+  <div style="position: relative;">
+    <div style="position: absolute; bottom: 0; right: 0;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWFZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
+    </div>
   </div>
 </div>
 
@@ -24,10 +25,7 @@
 
 - 📫 How to reach me **georgetoloraia@gmail.com**
 
-# test1
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
-# test2
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia" alt="georgetoloraia" /></a> </p>
 
 # Contact
