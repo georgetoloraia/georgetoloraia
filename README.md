@@ -6,7 +6,7 @@
   <h3 style="color:green">A Full Stack developer from Georgia</h3>
     <div align="center">
       <p style='color:red'>For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment</p>
-      + For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment
+      + text in green For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWFZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
     </div>
   
