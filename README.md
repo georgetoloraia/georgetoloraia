@@ -1,8 +1,6 @@
 # Hello World
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
 <div align="center">
   <h1 color=green>Hi 👋, I'm George Toloraia</h1>
   <h3 color:green>A Full Stack developer from Georgia</h3>
@@ -30,7 +28,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia" alt="georgetoloraia" /></a> </p>
 
-# Contact
+# [!Contact}
 <div align="left">
   <a href="https://www.linkedin.com/in/george-toloraia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
