@@ -1,8 +1,34 @@
 # Hello World
 
-- 👋 Hi, I’m [@georgetoloraia](https://github.com/georgetoloraia)
-- 👀 I’m interested in everything related to Electronics and Programming.
-- 🌱 I’m currently learning and improving my skills in various domains, including ChatGPT, hashing, algorithms, teamwork, English, JavaScript, and React.
+<div>
+  <h1 align="center">Hi 👋, I'm George Toloraia</h1>
+  <h3 align="center">A Full Stack developer from Georgia</h3>
+  <div align="right">
+    <p>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="180"> 
+    </p>
+  </div>
+</div>
+
+- 🔭 I’m currently working on [Nand2Tetris](https://www.storkhome.ge/)
+
+- 🌱 I’m currently learning **Hardware and Software**
+
+- 👯 I’m looking to collaborate on [storkhome](https://github.com/georgetoloraia/N2Tetris)
+
+- 👨‍💻 YouTube [https://www.youtube.com/@georgetoloraia](https://www.youtube.com/@georgetoloraia)
+
+- 📝 Linkedin [https://www.linkedin.com/in/george-toloraia/](https://www.linkedin.com/in/george-toloraia/)
+
+- 💬 Ask me about **Hardware | Software | Electical_Engineering**
+
+- 📫 How to reach me **georgetoloraia@gmail.com**
+
+# test1
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
+
+# test2
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia" alt="georgetoloraia" /></a> </p>
 
 # Contact
 <div align="left">
@@ -151,7 +177,6 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="180"> 
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration opportunities!
 
