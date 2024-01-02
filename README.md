@@ -186,7 +186,7 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 
 
 <p align="center">
-<a href="https://github.com/walidbosso">
+<a href="https://github.com/georgetoloraia">
    <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" />
 </a>
 </p>
