@@ -1,11 +1,3 @@
-# Hello World
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-<p>okay</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
