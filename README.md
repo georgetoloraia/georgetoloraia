@@ -54,12 +54,12 @@
 
 ## Programming Skills
 
-- Python
-- Django / FastAPI
-- SQL
-- HTML / CSS
-- JavaScript
-- React
+🔘 Python
+🔘 Django / FastAPI
+🔘 SQL
+🔘 HTML / CSS
+🔘 JavaScript
+🔘 React
 
 ## Electrical Expertise
 
