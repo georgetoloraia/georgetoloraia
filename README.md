@@ -174,7 +174,7 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 ## 📈 GitHub Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia&theme=matrix" alt="georgetoloraia" /></a> </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html&theme=matrix)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
 
 ## test-test-test
