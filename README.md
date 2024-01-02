@@ -1,6 +1,8 @@
 # Hello World
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 <div align="center">
   <h1 color=green>Hi 👋, I'm George Toloraia</h1>
   <h3 color:green>A Full Stack developer from Georgia</h3>
