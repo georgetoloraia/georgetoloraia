@@ -1,11 +1,12 @@
 # Hello World
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
-<div align="center" style="color:green">
+<div align="center">
   <h1 style="color:green">Hi 👋, I'm George Toloraia</h1>
   <h3 style="color:green">A Full Stack developer from Georgia</h3>
     <div align="center">
       <p style='color:red'>For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment</p>
+      ![#c5f015](For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment)
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWFZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="180">
     </div>
   
