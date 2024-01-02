@@ -1,5 +1,8 @@
 # Hello World
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
+<span style="color:red">
+  Text content
+</span>
 
 <div align="center">
   <h1 color=green>Hi 👋, I'm George Toloraia</h1>
