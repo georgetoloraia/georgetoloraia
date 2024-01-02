@@ -26,7 +26,6 @@
 - 📫 How to reach me **georgetoloraia@gmail.com**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia" alt="georgetoloraia" /></a> </p>
 
 > [!NOTE]
 > Contact Me
@@ -173,6 +172,7 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 - 📫 How to reach me ...
 --->
 ## 📈 GitHub Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia&theme=matrix" alt="georgetoloraia" /></a> </p>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
