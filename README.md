@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Nand2Tetris](https://www.storkhome.ge/)
 
-- 🌱 I’m currently learning **Hardware and Software**
+- 🌱 I’m currently learning **[Hardware](https://en.wikipedia.org/wiki/Computer_hardware) and [Software](https://en.wikipedia.org/wiki/Software_development)**
 
 - 👯 I’m looking to collaborate on [storkhome](https://github.com/georgetoloraia/N2Tetris)
 
