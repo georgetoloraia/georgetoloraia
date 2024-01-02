@@ -1,52 +1,36 @@
-# Hello World
+<h1 align="center">Hi 👋, I'm George Toloraia</h1>
+<h3 align="center">A Full Stack developer from Georgia</h3>
 
-## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdleGliZjhjYnNyOW1hbDUyN25hYWRwYTRxNTZ2Mmx6OWZlZ2szeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  width="180"> 
-- 👋 Hi, I’m [@georgetoloraia](https://github.com/georgetoloraia)
-- 👀 I’m interested in everything related to Electronics and Programming.
-- 🌱 I’m currently learning and improving my skills in various domains, including ChatGPT, hashing, algorithms, teamwork, English, JavaScript, and React.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia" alt="georgetoloraia" /></a> </p>
 
+- 🔭 I’m currently working on [Nand2Tetris](https://www.storkhome.ge/)
 
-## Programming Skills
+- 🌱 I’m currently learning **Hardware and Software**
 
-- Python
-- Django / FastAPI
-- SQL
-- HTML / CSS
-- JavaScript
-- React
+- 👯 I’m looking to collaborate on [storkhome](https://github.com/georgetoloraia/N2Tetris)
 
-## Electrical Expertise
+- 👨‍💻 YouTube [https://www.youtube.com/@georgetoloraia](https://www.youtube.com/@georgetoloraia)
 
-- **Experience:** I have 8 years of experience in the field of electricity.
-- **Specializations:**
-  - Building Management System (BMS)
-  - KNX
-  - Weak Currents (including camera systems, internet infrastructure, REKI, and more)
-  - Electrical Boxes (covering generators, Automatic Transfer Switches (ATS), and more)
+- 📝 Linkedin [https://www.linkedin.com/in/george-toloraia/](https://www.linkedin.com/in/george-toloraia/)
 
-## Current Learning Focus
+- 💬 Ask me about **Hardware | Software | Electical_Engineering**
 
-I'm currently dedicated to expanding my knowledge in the following areas:
+- 📫 How to reach me **georgetoloraia@gmail.com**
 
-- ChatGPT
-- Hashing
-- Assembly
-- Hardware/From Logic Gates to personal PC
-- Algorithms
-- Teamwork
-- English language proficiency
-- JavaScript
-- React
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/@gtoloraia19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gtoloraia19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/george1919/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/george1919/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/SU659ZRz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SU659ZRz" height="30" width="40" /></a>
+</p>
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or collaboration opportunities!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgetoloraia&show_icons=true&locale=en&layout=compact" alt="georgetoloraia" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&locale=en" alt="georgetoloraia" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgetoloraia&" alt="georgetoloraia" /></p>
