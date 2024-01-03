@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
 <div align="center">
-  <h1 {color:red;}>Hi 👋, I'm George Toloraia</h1>
+  <h1 `color: green`>Hi 👋, I'm George Toloraia</h1>
   <h3 {colot:blue;}>A Full Stack developer from Georgia</h3>
     <div align="center">
        <p {cplor:green;}>For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment</p>
