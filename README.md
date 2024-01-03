@@ -181,10 +181,8 @@ I'm currently dedicated to expanding my knowledge in the following areas:
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgetoloraia&theme=matrix" alt="georgetoloraia" /></a> </p>
 
-<div align="center">
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html&langs_count=8#gh-dark-mode-only)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=georgetoloraia&layout=compact&hide=html&langs_count=10&gh-dark-mode-only)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgetoloraia&show_icons=true&theme=radical)
-</div>
 
 [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=georgetoloraia&theme=algolia&card_width=1000)](https://github.com/georgetoloraia) </br></br>
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=georgetoloraia&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/georgetoloraia) </br>
