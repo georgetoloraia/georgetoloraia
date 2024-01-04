@@ -11,11 +11,11 @@
   
 </div>
 
-- 🔭 I’m currently working on [Nand2Tetris](https://www.storkhome.ge/)
+- 🔭 I’m currently working on [Nand2Tetris](https://github.com/georgetoloraia/N2Tetris)
 
 - 🌱 I’m currently learning **[Hardware](https://en.wikipedia.org/wiki/Computer_hardware) and [Software](https://en.wikipedia.org/wiki/Software_development)**
 
-- 👯 I’m looking to collaborate on [storkhome](https://github.com/georgetoloraia/N2Tetris)
+- 👯 I’m looking to collaborate on [storkhome](https://www.storkhome.ge/)
 
 - 👨‍💻 YouTube [https://www.youtube.com/@georgetoloraia](https://www.youtube.com/@georgetoloraia)
 
