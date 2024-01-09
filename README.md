@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World...!!!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&center=true&vCenter=true&random=false&width=435&lines=I'm+George+Toloraia)](https://git.io/typing-svg) 
+
 ☑️☑️☑️☑️☑️☑️[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=25D423CF&center=true&vCenter=true&random=false&width=435&lines=A+Full+Stack+developer+from+Georgia)](https://git.io/typing-svg)☑️☑️☑️☑️☑️☑️
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
