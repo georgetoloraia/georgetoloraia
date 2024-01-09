@@ -1,10 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World...!!!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&center=true&vCenter=true&random=false&width=435&lines=I'm+George+Toloraia)](https://git.io/typing-svg) 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgetoloraia&label=Profile%20views&color=0e75b6&style=flat" alt="georgetoloraia" /> </p>
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=1136DECF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World.+I'm+George+Toloraia" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=25D423CF&center=true&vCenter=true&random=false&width=435&lines=A+Full+Stack+developer+from+Georgia" alt="Typing SVG" /></a>
     <div align="center">
        <p {cplor:green;}>For me, working remotely is much more productive because I'm not on the road while I'm coding and don't waste time on traffic and entertainment</p>
