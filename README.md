@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **[Hardware](https://en.wikipedia.org/wiki/Computer_hardware) and [Software](https://en.wikipedia.org/wiki/Software_development)**
 
-- 👯 I’m looking to collaborate on [storkhome](https://www.storkhome.ge/)
+- 👯 I’m looking to collaborate on [storkhome](https://www.storkhome.ge/complex)
 
 - 👨‍💻 YouTube [https://www.youtube.com/@georgetoloraia](https://www.youtube.com/@georgetoloraia)
 
