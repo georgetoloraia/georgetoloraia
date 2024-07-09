@@ -10,13 +10,6 @@
   
 </div>
 
-- 🔭 I’m currently working on [Nand2Tetris](https://github.com/georgetoloraia/N2Tetris)
-
-- 🌱 I’m currently learning **[Hardware](https://en.wikipedia.org/wiki/Computer_hardware) and [Software](https://en.wikipedia.org/wiki/Software_development)**
-
-- 👯 I’m looking to collaborate on [storkhome](https://www.storkhome.ge/complex)
-
-- 👨‍💻 YouTube [https://www.youtube.com/@georgetoloraia](https://www.youtube.com/@georgetoloraia)
 
 - 📝 Linkedin [https://www.linkedin.com/in/george-toloraia/](https://www.linkedin.com/in/george-toloraia/)
 
