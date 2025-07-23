@@ -54,7 +54,7 @@
 
 ## Electrical Expertise
 
-- **Experience:** I have 8 years of experience in the field of electricity.
+- **Experience:** I have 9 years of experience in the field of electricity.
 - **Specializations:**
   - Building Management System (BMS)
   - KNX
