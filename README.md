@@ -1,4 +1,4 @@
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on @Selflink
+- 📫 How to reach me:
+  Gmail: georgetoloraia@gmail.com
 
